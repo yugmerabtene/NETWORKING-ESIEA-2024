@@ -92,11 +92,3 @@
 #### **Exercice 4 : Simulation de Réseaux avec des Outils Virtuels**
 - **Objectif :** Pratiquer la création de réseaux simulés pour tester les normes étudiées.
 - **Activité :** Utiliser un simulateur de réseau (ex : Cisco Packet Tracer, GNS3) pour créer un réseau local basé sur les normes vues.
-
----
-
-### **Conclusion du Module**
-- **Récapitulatif :** Importance des réseaux informatiques, leur standardisation et les principaux modèles.
-- **Application Pratique :** L’utilisation des normes est cruciale pour construire des réseaux efficaces et interopérables.
-
-

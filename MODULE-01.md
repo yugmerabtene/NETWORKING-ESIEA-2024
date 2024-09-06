@@ -12,6 +12,9 @@
 
 #### **1.1. Définition et Importance des Réseaux Informatiques :**
 - **Réseaux informatiques :** Un réseau informatique est un ensemble d’ordinateurs et d’autres dispositifs connectés pour partager des ressources, comme des fichiers, des imprimantes ou une connexion internet.
+- ** Les réseaux DECnet de DIGITAL et d'IBM** ( SNA - Systeme Network Architecture ) constituent des exemples de réseaux à architecture centralisée.
+- ** Le premier réseau informatique à grande echelle :** Département de la défense DoD Departement of defense pour disposer d'un réseau à forte tolerance de panne en cas de guerre Arpanet : 
+
 - **Importance :**
   - **Communication efficace :** Permet la transmission rapide des données entre utilisateurs et systèmes.
   - **Partage de ressources :** Optimise l’utilisation des ressources matérielles et logicielles.
@@ -29,7 +32,7 @@
   - **Routeurs :** Relient différents réseaux et dirigent le trafic.
   - **Switches :** Connectent des dispositifs au sein d’un même réseau.
   - **Points d’accès :** Permettent la connexion des dispositifs sans fil.
-- **Médias de transmission :** Câbles (cuivre, fibre optique) et sans fil (Wi-Fi).
+  - **Médias de transmission :** Câbles (cuivre, fibre optique) et sans fil (Wi-Fi).
 
 ---
 
